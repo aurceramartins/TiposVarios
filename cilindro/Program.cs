@@ -12,6 +12,10 @@ namespace cilindro
 
             Console.WriteLine(s + s1);
 
+            s += "uaaaaaaaaa";
+            Console.WriteLine(s);
+
+
             Console.ReadKey();
 
 
